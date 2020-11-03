@@ -21,7 +21,17 @@ img {
 @media screen and (max-width: 500px) {
 	img {
 		width: 100%;
-		height: 55vw;
+		height: 70vw;
+	}
+}
+
+@media screen and (max-width: 700px) {
+	div {
+		position: relative;
+		display: inline-block;
+		margin: auto;
+		width: 100vw;
+		font-family: "Open Sans Bold";
 	}
 }
 
