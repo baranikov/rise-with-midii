@@ -9,6 +9,7 @@ div {
 	flex-direction: column;
 	align-items: center;
 	margin: auto;
+	width: 100vw;
 	font-family: "Open Sans Bold";	
 }
 
