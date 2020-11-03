@@ -56,6 +56,12 @@ td {
 	background-color: #FF7E00;
 }
 
+h1,
+h2,
+h3 {
+	max-width: 100%;
+}
+
 .col2 {
 	background-color: #15E232;
 }
